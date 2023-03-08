@@ -1,0 +1,8 @@
+John Smith A1
+P Math 1 A4
+E Physics 2 USB
+E Chemistry 1 comp
+P History 3 B2
+E English 1 comp
+E Biology 2 USB
+P Programming 1 A2

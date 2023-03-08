@@ -1,0 +1,3 @@
+M 123456 200.00 Samsung Galaxy S21
+R 789012 50.00 Sony ICF-S80 Portable FM/AM Radio
+M 345678 350.00 Apple iPhone 13 Pro
