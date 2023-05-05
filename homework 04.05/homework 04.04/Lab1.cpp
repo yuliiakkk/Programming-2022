@@ -10,18 +10,16 @@ bool isVisited[N];//для зберігання вершин які вже бу�
 
 bool DFS(int startNode, int destinationNode)
 {
-    stack<int>nodes;
+    stack<int> nodes;
     nodes.push(startNode);
     isVisited[startNode - 1] = true;
-
     while (!nodes.empty())
     {
         int curr = nodes.top();
+        cout << curr << " -> ";
         nodes.pop();
-
         if (destinationNode == curr)
             return true;
-
 
         for (int i = 0; i < graph[curr - 1].size(); i++)
         {
