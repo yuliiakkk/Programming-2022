@@ -1,0 +1,7 @@
+VC dyson10 Dyson 499.99 White 2
+WM samsung123 Samsung 799.99 10 7
+VC hoover2323 Hoover 199.99 Black 1
+VC shark8383 Shark 349.99 Blue 3
+WM LG636 LG 899.99 12 8
+VC Bissell09876 Bissell 149.99 Red 1
+WM Bosch9090 Bosch 999.99 15 9

@@ -1,0 +1,7 @@
+Name: Bissell09876Brand: BissellPrice149.99Color: RedCapacity: 1
+Name: Bosch9090Brand: BoschPrice999.99Number of programs: 15Volume: 9
+Name: LG636Brand: LGPrice899.99Number of programs: 12Volume: 8
+Name: dyson10Brand: DysonPrice499.99Color: WhiteCapacity: 2
+Name: hoover2323Brand: HooverPrice199.99Color: BlackCapacity: 1
+Name: samsung123Brand: SamsungPrice799.99Number of programs: 10Volume: 7
+Name: shark8383Brand: SharkPrice349.99Color: BlueCapacity: 3

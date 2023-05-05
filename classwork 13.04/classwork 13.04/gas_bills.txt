@@ -1,0 +1,4 @@
+Lee 4 150
+Smith 3 125
+Rodriguez 2 95
+Jackson 2 100

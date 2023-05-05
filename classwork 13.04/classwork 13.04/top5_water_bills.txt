@@ -1,0 +1,5 @@
+Wilson 57.8
+Brown 50
+Johnson 43.25
+Davis 40
+Thompson 28.7

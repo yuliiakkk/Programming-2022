@@ -1,0 +1,9 @@
+G Smith 3 125.00
+W Johnson 1256 20.50 43.25
+W Thompson 2345 12.30 28.70
+G Rodriguez 2 95.00
+W Brown 1678 22.00 50.00
+G Lee 4 150.00
+W Davis 2893 18.20 40.00
+G Jackson 2 100.00
+W Wilson 1985 24.50 57.80
